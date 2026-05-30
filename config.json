@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartpalculate",
+        "uuid": 2205390,
+        "checksum": "4voyyq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
